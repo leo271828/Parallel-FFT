@@ -1,7 +1,7 @@
 # Parallel-Fast Fourier Transform
 Use OMP to implement parallel-FFT 
-這是我在修**快速計算法**這門課所做的期末專題報告，老師上課其實就已經教了基本的 FFT 的寫法，但是主要是以遞迴來寫
-因此我先把遞迴型的FFT改成迭代型，接著才開始進行平行化處理
+
+這是我在修**快速計算法**這門課所做的期末專題報告，老師上課其實就已經教了基本的 FFT 的寫法，但是主要是以遞迴來寫，因此我先把遞迴型的FFT改成迭代型，接著才開始進行平行化處理
 
 ## Process
 ### 1. Iterative
