@@ -19,4 +19,4 @@ Use OMP to implement parallel-FFT
 * 左圖：FFT vs PFFT
 * 右圖：迭代型FFT vs 迭代型PFFT
 ![image](https://user-images.githubusercontent.com/47287400/192219060-9d5363ea-1fd0-4332-829a-a15e43d5c5f8.png)
-> 圖是用 Python 來做的，檔案也附在 `Plot.py`
+> 圖是用 Python 來做的，檔案也附在 `Plot_FFT.py`
